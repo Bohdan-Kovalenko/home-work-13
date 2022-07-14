@@ -25,3 +25,49 @@
 .link-contacts {
     margin-right: 0px;
 }
+
+.main-content {
+    margin-bottom: 30px;
+}
+
+.list-films {
+    width: 1200px;
+    text-align: center;
+    font-size: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.films_name {
+    margin-bottom: 0px;
+}
+
+.films {
+    width: 400px;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid red;
+    padding: 20px;
+}
+
+.film p {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.image-film {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.rating {
+    margin: 0px;
+}
+
+.rating-yellow {
+    color: yellow;
+}
+
+.rating-green {
+    color: green;
+}
