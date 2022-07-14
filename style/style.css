@@ -78,3 +78,30 @@
     font-weight: bold;
     text-decoration: none;
 }
+
+.button {
+    font-size: 20px;
+    line-height: 28px;
+    border-radius: 10px;
+}
+
+.like {
+    background-color: green;
+}
+
+.dizlike {
+    background-color: red;
+}
+
+.link-tags {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.tags {
+    color: blue;
+}
+
+.names {
+    color: black;
+}
